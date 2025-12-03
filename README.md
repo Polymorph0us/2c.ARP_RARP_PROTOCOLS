@@ -74,10 +74,12 @@ c.close()
 ### server:
 
 
-![alt text](image.png)
+<img width="727" height="282" alt="image" src="https://github.com/user-attachments/assets/1b51170e-2632-486d-bd4e-238001bbcf99" />
+
 ### client
 
-![alt text](image-1.png)
+<img width="713" height="288" alt="image" src="https://github.com/user-attachments/assets/83406339-4470-4d02-9231-f01340625602" />
+
 
 
 ## PROGRAM - RARP
